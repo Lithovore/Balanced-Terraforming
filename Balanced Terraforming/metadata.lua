@@ -14,7 +14,7 @@ return PlaceObj('ModDef', {
 		"Code/ScriptInfopanel.lua",		
 		"Code/ScriptTechs.lua",
 		"Code/ScriptBuildings.lua",
-		"Code/BuildingValues.lua",
+		"Code/ScriptMissions.lua",
 	},
 	'saved', 1578769430,
 	'screenshot1', "Mars_terraforming-NASA.png",

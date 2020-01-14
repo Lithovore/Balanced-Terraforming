@@ -12,8 +12,8 @@ PlaceObj('ModItemCode', {
 	'FileName', "Code/ScriptBuildings.lua",
 }),
 PlaceObj('ModItemCode', {
-	'name', "BuildingValues",
-	'FileName', "Code/BuildingValues.lua",
+	'name', "ScriptMissions",
+	'FileName', "Code/ScriptMissions.lua",
 }),
 PlaceObj('ModItemCode', {
 	'name', "ScriptTechs",
