@@ -82,8 +82,8 @@ function OnMsg.ClassesPostprocess()
 	})
 	}
 
-	bt.ImportGreenhouseGases.display_name = T(934945450792, "Import Atmospheric Gases")
-	bt.ImportGreenhouseGases.description = T(501641182896, "Deploy robotic scoops into the atmosphere of Titan, largest moon of Saturn, and then dump the collected nitrogen on Mars, improving the Atmosphere of the planet. <em>This action may cause toxic rains that are harmful to soil quality and plant life.</em>")
+	bt.ImportGreenhouseGases.display_name = T(0, [[Import Atmospheric Gases]])
+	bt.ImportGreenhouseGases.description = T(0, [[Deploy robotic scoops into the atmosphere of Titan, largest moon of Saturn, and then dump the collected nitrogen on Mars, improving the Atmosphere of the planet. This action may cause toxic rains that are harmful to soil quality and plant life.]])
 
 	bt.LaunchSpaceSunshade.OnCompletion = function(self, object, city, idx)
 	local MScount = GetMagneticShieldsCount()
